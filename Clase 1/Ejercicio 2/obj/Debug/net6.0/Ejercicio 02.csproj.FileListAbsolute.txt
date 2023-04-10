@@ -1,0 +1,15 @@
+C:\Users\Mauricio\source\repos\Introducción .NET y C#\Ejercicio 2\bin\Debug\net6.0\Ejercicio 02.exe
+C:\Users\Mauricio\source\repos\Introducción .NET y C#\Ejercicio 2\bin\Debug\net6.0\Ejercicio 02.deps.json
+C:\Users\Mauricio\source\repos\Introducción .NET y C#\Ejercicio 2\bin\Debug\net6.0\Ejercicio 02.runtimeconfig.json
+C:\Users\Mauricio\source\repos\Introducción .NET y C#\Ejercicio 2\bin\Debug\net6.0\Ejercicio 02.dll
+C:\Users\Mauricio\source\repos\Introducción .NET y C#\Ejercicio 2\bin\Debug\net6.0\Ejercicio 02.pdb
+C:\Users\Mauricio\source\repos\Introducción .NET y C#\Ejercicio 2\obj\Debug\net6.0\Ejercicio 02.csproj.AssemblyReference.cache
+C:\Users\Mauricio\source\repos\Introducción .NET y C#\Ejercicio 2\obj\Debug\net6.0\Ejercicio 02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauricio\source\repos\Introducción .NET y C#\Ejercicio 2\obj\Debug\net6.0\Ejercicio 02.AssemblyInfoInputs.cache
+C:\Users\Mauricio\source\repos\Introducción .NET y C#\Ejercicio 2\obj\Debug\net6.0\Ejercicio 02.AssemblyInfo.cs
+C:\Users\Mauricio\source\repos\Introducción .NET y C#\Ejercicio 2\obj\Debug\net6.0\Ejercicio 02.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\source\repos\Introducción .NET y C#\Ejercicio 2\obj\Debug\net6.0\Ejercicio 02.dll
+C:\Users\Mauricio\source\repos\Introducción .NET y C#\Ejercicio 2\obj\Debug\net6.0\refint\Ejercicio 02.dll
+C:\Users\Mauricio\source\repos\Introducción .NET y C#\Ejercicio 2\obj\Debug\net6.0\Ejercicio 02.pdb
+C:\Users\Mauricio\source\repos\Introducción .NET y C#\Ejercicio 2\obj\Debug\net6.0\Ejercicio 02.genruntimeconfig.cache
+C:\Users\Mauricio\source\repos\Introducción .NET y C#\Ejercicio 2\obj\Debug\net6.0\ref\Ejercicio 02.dll

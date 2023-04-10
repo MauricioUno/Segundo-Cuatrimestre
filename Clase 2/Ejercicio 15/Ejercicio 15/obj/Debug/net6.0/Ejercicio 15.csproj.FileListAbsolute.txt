@@ -1,0 +1,18 @@
+C:\Users\Mauricio\source\repos\Ejercicio 15\Ejercicio 15\bin\Debug\net6.0\Ejercicio 15.exe
+C:\Users\Mauricio\source\repos\Ejercicio 15\Ejercicio 15\bin\Debug\net6.0\Ejercicio 15.deps.json
+C:\Users\Mauricio\source\repos\Ejercicio 15\Ejercicio 15\bin\Debug\net6.0\Ejercicio 15.runtimeconfig.json
+C:\Users\Mauricio\source\repos\Ejercicio 15\Ejercicio 15\bin\Debug\net6.0\Ejercicio 15.dll
+C:\Users\Mauricio\source\repos\Ejercicio 15\Ejercicio 15\bin\Debug\net6.0\Ejercicio 15.pdb
+C:\Users\Mauricio\source\repos\Ejercicio 15\Ejercicio 15\obj\Debug\net6.0\Ejercicio 15.csproj.AssemblyReference.cache
+C:\Users\Mauricio\source\repos\Ejercicio 15\Ejercicio 15\obj\Debug\net6.0\Ejercicio 15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauricio\source\repos\Ejercicio 15\Ejercicio 15\obj\Debug\net6.0\Ejercicio 15.AssemblyInfoInputs.cache
+C:\Users\Mauricio\source\repos\Ejercicio 15\Ejercicio 15\obj\Debug\net6.0\Ejercicio 15.AssemblyInfo.cs
+C:\Users\Mauricio\source\repos\Ejercicio 15\Ejercicio 15\obj\Debug\net6.0\Ejercicio 15.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\source\repos\Ejercicio 15\Ejercicio 15\obj\Debug\net6.0\Ejercicio 15.dll
+C:\Users\Mauricio\source\repos\Ejercicio 15\Ejercicio 15\obj\Debug\net6.0\refint\Ejercicio 15.dll
+C:\Users\Mauricio\source\repos\Ejercicio 15\Ejercicio 15\obj\Debug\net6.0\Ejercicio 15.pdb
+C:\Users\Mauricio\source\repos\Ejercicio 15\Ejercicio 15\obj\Debug\net6.0\Ejercicio 15.genruntimeconfig.cache
+C:\Users\Mauricio\source\repos\Ejercicio 15\Ejercicio 15\obj\Debug\net6.0\ref\Ejercicio 15.dll
+C:\Users\Mauricio\source\repos\Ejercicio 15\Ejercicio 15\bin\Debug\net6.0\Entidades.dll
+C:\Users\Mauricio\source\repos\Ejercicio 15\Ejercicio 15\bin\Debug\net6.0\Entidades.pdb
+C:\Users\Mauricio\source\repos\Ejercicio 15\Ejercicio 15\obj\Debug\net6.0\Ejercicio 15.csproj.CopyComplete

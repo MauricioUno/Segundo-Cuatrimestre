@@ -1,0 +1,24 @@
+C:\Users\Mauricio\source\repos\Clase02\Entidades\bin\Debug\net6.0\Entidades.deps.json
+C:\Users\Mauricio\source\repos\Clase02\Entidades\bin\Debug\net6.0\Entidades.dll
+C:\Users\Mauricio\source\repos\Clase02\Entidades\bin\Debug\net6.0\Entidades.pdb
+C:\Users\Mauricio\source\repos\Clase02\Entidades\obj\Debug\net6.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\Mauricio\source\repos\Clase02\Entidades\obj\Debug\net6.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauricio\source\repos\Clase02\Entidades\obj\Debug\net6.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\Mauricio\source\repos\Clase02\Entidades\obj\Debug\net6.0\Entidades.AssemblyInfo.cs
+C:\Users\Mauricio\source\repos\Clase02\Entidades\obj\Debug\net6.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\source\repos\Clase02\Entidades\obj\Debug\net6.0\Entidades.dll
+C:\Users\Mauricio\source\repos\Clase02\Entidades\obj\Debug\net6.0\refint\Entidades.dll
+C:\Users\Mauricio\source\repos\Clase02\Entidades\obj\Debug\net6.0\Entidades.pdb
+C:\Users\Mauricio\source\repos\Clase02\Entidades\obj\Debug\net6.0\ref\Entidades.dll
+C:\Users\Mauricio\OneDrive\Documentos\Programacion y Laboratorio II\Clase 2\Ejercicio 14\Entidades\bin\Debug\net6.0\Entidades.deps.json
+C:\Users\Mauricio\OneDrive\Documentos\Programacion y Laboratorio II\Clase 2\Ejercicio 14\Entidades\bin\Debug\net6.0\Entidades.dll
+C:\Users\Mauricio\OneDrive\Documentos\Programacion y Laboratorio II\Clase 2\Ejercicio 14\Entidades\bin\Debug\net6.0\Entidades.pdb
+C:\Users\Mauricio\OneDrive\Documentos\Programacion y Laboratorio II\Clase 2\Ejercicio 14\Entidades\obj\Debug\net6.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\Mauricio\OneDrive\Documentos\Programacion y Laboratorio II\Clase 2\Ejercicio 14\Entidades\obj\Debug\net6.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauricio\OneDrive\Documentos\Programacion y Laboratorio II\Clase 2\Ejercicio 14\Entidades\obj\Debug\net6.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\Mauricio\OneDrive\Documentos\Programacion y Laboratorio II\Clase 2\Ejercicio 14\Entidades\obj\Debug\net6.0\Entidades.AssemblyInfo.cs
+C:\Users\Mauricio\OneDrive\Documentos\Programacion y Laboratorio II\Clase 2\Ejercicio 14\Entidades\obj\Debug\net6.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\OneDrive\Documentos\Programacion y Laboratorio II\Clase 2\Ejercicio 14\Entidades\obj\Debug\net6.0\Entidades.dll
+C:\Users\Mauricio\OneDrive\Documentos\Programacion y Laboratorio II\Clase 2\Ejercicio 14\Entidades\obj\Debug\net6.0\refint\Entidades.dll
+C:\Users\Mauricio\OneDrive\Documentos\Programacion y Laboratorio II\Clase 2\Ejercicio 14\Entidades\obj\Debug\net6.0\Entidades.pdb
+C:\Users\Mauricio\OneDrive\Documentos\Programacion y Laboratorio II\Clase 2\Ejercicio 14\Entidades\obj\Debug\net6.0\ref\Entidades.dll

@@ -1,0 +1,54 @@
+C:\Users\Mauricio\source\repos\Introducción .NET y C#\Veterinaria\bin\Debug\net6.0\Veterinaria.exe
+C:\Users\Mauricio\source\repos\Introducción .NET y C#\Veterinaria\bin\Debug\net6.0\Veterinaria.deps.json
+C:\Users\Mauricio\source\repos\Introducción .NET y C#\Veterinaria\bin\Debug\net6.0\Veterinaria.runtimeconfig.json
+C:\Users\Mauricio\source\repos\Introducción .NET y C#\Veterinaria\bin\Debug\net6.0\Veterinaria.dll
+C:\Users\Mauricio\source\repos\Introducción .NET y C#\Veterinaria\bin\Debug\net6.0\Veterinaria.pdb
+C:\Users\Mauricio\source\repos\Introducción .NET y C#\Veterinaria\bin\Debug\net6.0\Entidades.dll
+C:\Users\Mauricio\source\repos\Introducción .NET y C#\Veterinaria\bin\Debug\net6.0\Entidades.pdb
+C:\Users\Mauricio\source\repos\Introducción .NET y C#\Veterinaria\obj\Debug\net6.0\Veterinaria.csproj.AssemblyReference.cache
+C:\Users\Mauricio\source\repos\Introducción .NET y C#\Veterinaria\obj\Debug\net6.0\Veterinaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauricio\source\repos\Introducción .NET y C#\Veterinaria\obj\Debug\net6.0\Veterinaria.AssemblyInfoInputs.cache
+C:\Users\Mauricio\source\repos\Introducción .NET y C#\Veterinaria\obj\Debug\net6.0\Veterinaria.AssemblyInfo.cs
+C:\Users\Mauricio\source\repos\Introducción .NET y C#\Veterinaria\obj\Debug\net6.0\Veterinaria.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\source\repos\Introducción .NET y C#\Veterinaria\obj\Debug\net6.0\Veterinaria.csproj.CopyComplete
+C:\Users\Mauricio\source\repos\Introducción .NET y C#\Veterinaria\obj\Debug\net6.0\Veterinaria.dll
+C:\Users\Mauricio\source\repos\Introducción .NET y C#\Veterinaria\obj\Debug\net6.0\refint\Veterinaria.dll
+C:\Users\Mauricio\source\repos\Introducción .NET y C#\Veterinaria\obj\Debug\net6.0\Veterinaria.pdb
+C:\Users\Mauricio\source\repos\Introducción .NET y C#\Veterinaria\obj\Debug\net6.0\Veterinaria.genruntimeconfig.cache
+C:\Users\Mauricio\source\repos\Introducción .NET y C#\Veterinaria\obj\Debug\net6.0\ref\Veterinaria.dll
+C:\Users\Mauricio\OneDrive\Documentos\Programacion y Laboratorio II\Introducción .NET y C#\Veterinaria\bin\Debug\net6.0\Veterinaria.exe
+C:\Users\Mauricio\OneDrive\Documentos\Programacion y Laboratorio II\Introducción .NET y C#\Veterinaria\bin\Debug\net6.0\Veterinaria.deps.json
+C:\Users\Mauricio\OneDrive\Documentos\Programacion y Laboratorio II\Introducción .NET y C#\Veterinaria\bin\Debug\net6.0\Veterinaria.runtimeconfig.json
+C:\Users\Mauricio\OneDrive\Documentos\Programacion y Laboratorio II\Introducción .NET y C#\Veterinaria\bin\Debug\net6.0\Veterinaria.dll
+C:\Users\Mauricio\OneDrive\Documentos\Programacion y Laboratorio II\Introducción .NET y C#\Veterinaria\bin\Debug\net6.0\Veterinaria.pdb
+C:\Users\Mauricio\OneDrive\Documentos\Programacion y Laboratorio II\Introducción .NET y C#\Veterinaria\bin\Debug\net6.0\Entidades.dll
+C:\Users\Mauricio\OneDrive\Documentos\Programacion y Laboratorio II\Introducción .NET y C#\Veterinaria\bin\Debug\net6.0\Entidades.pdb
+C:\Users\Mauricio\OneDrive\Documentos\Programacion y Laboratorio II\Introducción .NET y C#\Veterinaria\obj\Debug\net6.0\Veterinaria.csproj.AssemblyReference.cache
+C:\Users\Mauricio\OneDrive\Documentos\Programacion y Laboratorio II\Introducción .NET y C#\Veterinaria\obj\Debug\net6.0\Veterinaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauricio\OneDrive\Documentos\Programacion y Laboratorio II\Introducción .NET y C#\Veterinaria\obj\Debug\net6.0\Veterinaria.AssemblyInfoInputs.cache
+C:\Users\Mauricio\OneDrive\Documentos\Programacion y Laboratorio II\Introducción .NET y C#\Veterinaria\obj\Debug\net6.0\Veterinaria.AssemblyInfo.cs
+C:\Users\Mauricio\OneDrive\Documentos\Programacion y Laboratorio II\Introducción .NET y C#\Veterinaria\obj\Debug\net6.0\Veterinaria.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\OneDrive\Documentos\Programacion y Laboratorio II\Introducción .NET y C#\Veterinaria\obj\Debug\net6.0\Veterinaria.csproj.CopyComplete
+C:\Users\Mauricio\OneDrive\Documentos\Programacion y Laboratorio II\Introducción .NET y C#\Veterinaria\obj\Debug\net6.0\Veterinaria.dll
+C:\Users\Mauricio\OneDrive\Documentos\Programacion y Laboratorio II\Introducción .NET y C#\Veterinaria\obj\Debug\net6.0\refint\Veterinaria.dll
+C:\Users\Mauricio\OneDrive\Documentos\Programacion y Laboratorio II\Introducción .NET y C#\Veterinaria\obj\Debug\net6.0\Veterinaria.pdb
+C:\Users\Mauricio\OneDrive\Documentos\Programacion y Laboratorio II\Introducción .NET y C#\Veterinaria\obj\Debug\net6.0\Veterinaria.genruntimeconfig.cache
+C:\Users\Mauricio\OneDrive\Documentos\Programacion y Laboratorio II\Introducción .NET y C#\Veterinaria\obj\Debug\net6.0\ref\Veterinaria.dll
+C:\Users\Mauricio\OneDrive\Documentos\Programacion y Laboratorio II\Clase 1\Veterinaria\bin\Debug\net6.0\Veterinaria.exe
+C:\Users\Mauricio\OneDrive\Documentos\Programacion y Laboratorio II\Clase 1\Veterinaria\bin\Debug\net6.0\Veterinaria.deps.json
+C:\Users\Mauricio\OneDrive\Documentos\Programacion y Laboratorio II\Clase 1\Veterinaria\bin\Debug\net6.0\Veterinaria.runtimeconfig.json
+C:\Users\Mauricio\OneDrive\Documentos\Programacion y Laboratorio II\Clase 1\Veterinaria\bin\Debug\net6.0\Veterinaria.dll
+C:\Users\Mauricio\OneDrive\Documentos\Programacion y Laboratorio II\Clase 1\Veterinaria\bin\Debug\net6.0\Veterinaria.pdb
+C:\Users\Mauricio\OneDrive\Documentos\Programacion y Laboratorio II\Clase 1\Veterinaria\bin\Debug\net6.0\Entidades.dll
+C:\Users\Mauricio\OneDrive\Documentos\Programacion y Laboratorio II\Clase 1\Veterinaria\bin\Debug\net6.0\Entidades.pdb
+C:\Users\Mauricio\OneDrive\Documentos\Programacion y Laboratorio II\Clase 1\Veterinaria\obj\Debug\net6.0\Veterinaria.csproj.AssemblyReference.cache
+C:\Users\Mauricio\OneDrive\Documentos\Programacion y Laboratorio II\Clase 1\Veterinaria\obj\Debug\net6.0\Veterinaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauricio\OneDrive\Documentos\Programacion y Laboratorio II\Clase 1\Veterinaria\obj\Debug\net6.0\Veterinaria.AssemblyInfoInputs.cache
+C:\Users\Mauricio\OneDrive\Documentos\Programacion y Laboratorio II\Clase 1\Veterinaria\obj\Debug\net6.0\Veterinaria.AssemblyInfo.cs
+C:\Users\Mauricio\OneDrive\Documentos\Programacion y Laboratorio II\Clase 1\Veterinaria\obj\Debug\net6.0\Veterinaria.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\OneDrive\Documentos\Programacion y Laboratorio II\Clase 1\Veterinaria\obj\Debug\net6.0\Veterinaria.csproj.CopyComplete
+C:\Users\Mauricio\OneDrive\Documentos\Programacion y Laboratorio II\Clase 1\Veterinaria\obj\Debug\net6.0\Veterinaria.dll
+C:\Users\Mauricio\OneDrive\Documentos\Programacion y Laboratorio II\Clase 1\Veterinaria\obj\Debug\net6.0\refint\Veterinaria.dll
+C:\Users\Mauricio\OneDrive\Documentos\Programacion y Laboratorio II\Clase 1\Veterinaria\obj\Debug\net6.0\Veterinaria.pdb
+C:\Users\Mauricio\OneDrive\Documentos\Programacion y Laboratorio II\Clase 1\Veterinaria\obj\Debug\net6.0\Veterinaria.genruntimeconfig.cache
+C:\Users\Mauricio\OneDrive\Documentos\Programacion y Laboratorio II\Clase 1\Veterinaria\obj\Debug\net6.0\ref\Veterinaria.dll
