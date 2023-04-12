@@ -1,0 +1,18 @@
+C:\Users\Mauricio\OneDrive\Escritorio\Practica PyL II\Introduccion a .NET y C#\Ejercicio 05\bin\Debug\net6.0\Ejercicio 05.exe
+C:\Users\Mauricio\OneDrive\Escritorio\Practica PyL II\Introduccion a .NET y C#\Ejercicio 05\bin\Debug\net6.0\Ejercicio 05.deps.json
+C:\Users\Mauricio\OneDrive\Escritorio\Practica PyL II\Introduccion a .NET y C#\Ejercicio 05\bin\Debug\net6.0\Ejercicio 05.runtimeconfig.json
+C:\Users\Mauricio\OneDrive\Escritorio\Practica PyL II\Introduccion a .NET y C#\Ejercicio 05\bin\Debug\net6.0\Ejercicio 05.dll
+C:\Users\Mauricio\OneDrive\Escritorio\Practica PyL II\Introduccion a .NET y C#\Ejercicio 05\bin\Debug\net6.0\Ejercicio 05.pdb
+C:\Users\Mauricio\OneDrive\Escritorio\Practica PyL II\Introduccion a .NET y C#\Ejercicio 05\obj\Debug\net6.0\Ejercicio 05.csproj.AssemblyReference.cache
+C:\Users\Mauricio\OneDrive\Escritorio\Practica PyL II\Introduccion a .NET y C#\Ejercicio 05\obj\Debug\net6.0\Ejercicio 05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauricio\OneDrive\Escritorio\Practica PyL II\Introduccion a .NET y C#\Ejercicio 05\obj\Debug\net6.0\Ejercicio 05.AssemblyInfoInputs.cache
+C:\Users\Mauricio\OneDrive\Escritorio\Practica PyL II\Introduccion a .NET y C#\Ejercicio 05\obj\Debug\net6.0\Ejercicio 05.AssemblyInfo.cs
+C:\Users\Mauricio\OneDrive\Escritorio\Practica PyL II\Introduccion a .NET y C#\Ejercicio 05\obj\Debug\net6.0\Ejercicio 05.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\OneDrive\Escritorio\Practica PyL II\Introduccion a .NET y C#\Ejercicio 05\obj\Debug\net6.0\Ejercicio 05.dll
+C:\Users\Mauricio\OneDrive\Escritorio\Practica PyL II\Introduccion a .NET y C#\Ejercicio 05\obj\Debug\net6.0\refint\Ejercicio 05.dll
+C:\Users\Mauricio\OneDrive\Escritorio\Practica PyL II\Introduccion a .NET y C#\Ejercicio 05\obj\Debug\net6.0\Ejercicio 05.pdb
+C:\Users\Mauricio\OneDrive\Escritorio\Practica PyL II\Introduccion a .NET y C#\Ejercicio 05\obj\Debug\net6.0\Ejercicio 05.genruntimeconfig.cache
+C:\Users\Mauricio\OneDrive\Escritorio\Practica PyL II\Introduccion a .NET y C#\Ejercicio 05\obj\Debug\net6.0\ref\Ejercicio 05.dll
+C:\Users\Mauricio\OneDrive\Escritorio\Practica PyL II\Introduccion a .NET y C#\Ejercicio 05\bin\Debug\net6.0\Entidades.dll
+C:\Users\Mauricio\OneDrive\Escritorio\Practica PyL II\Introduccion a .NET y C#\Ejercicio 05\bin\Debug\net6.0\Entidades.pdb
+C:\Users\Mauricio\OneDrive\Escritorio\Practica PyL II\Introduccion a .NET y C#\Ejercicio 05\obj\Debug\net6.0\Ejercicio 05.csproj.CopyComplete

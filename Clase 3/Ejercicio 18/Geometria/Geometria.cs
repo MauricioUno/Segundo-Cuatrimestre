@@ -46,6 +46,7 @@
                 float largo = Math.Abs(vertice1.GetX() - vertice2.GetX());
                 float altura = Math.Abs(vertice1.GetY() - vertice4.GetY());
                 this.area = largo * altura;
+                //Console.WriteLine("Se calculo el area");
             }
             return this.area;
         }
@@ -57,6 +58,7 @@
                 float largo = Math.Abs(vertice1.GetX() - vertice2.GetX());
                 float altura = Math.Abs(vertice1.GetY() - vertice4.GetY());
                 this.perimetro = (largo + altura) * 2;
+                //Console.WriteLine("Se calculo el perimetro");
             }
             return this.perimetro;
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mauricio\\OneDrive\\Documentos\\Programacion y Laboratorio II\\Clase 1\\Ejercicio 1\\Ejercicio 01.csproj": {}
+    "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 1\\Ejercicio 1\\Ejercicio 01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mauricio\\OneDrive\\Documentos\\Programacion y Laboratorio II\\Clase 1\\Ejercicio 1\\Ejercicio 01.csproj": {
+    "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 1\\Ejercicio 1\\Ejercicio 01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mauricio\\OneDrive\\Documentos\\Programacion y Laboratorio II\\Clase 1\\Ejercicio 1\\Ejercicio 01.csproj",
+        "projectUniqueName": "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 1\\Ejercicio 1\\Ejercicio 01.csproj",
         "projectName": "Ejercicio 01",
-        "projectPath": "C:\\Users\\Mauricio\\OneDrive\\Documentos\\Programacion y Laboratorio II\\Clase 1\\Ejercicio 1\\Ejercicio 01.csproj",
+        "projectPath": "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 1\\Ejercicio 1\\Ejercicio 01.csproj",
         "packagesPath": "C:\\Users\\Mauricio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mauricio\\OneDrive\\Documentos\\Programacion y Laboratorio II\\Clase 1\\Ejercicio 1\\obj\\",
+        "outputPath": "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 1\\Ejercicio 1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mauricio\\AppData\\Roaming\\NuGet\\NuGet.Config",

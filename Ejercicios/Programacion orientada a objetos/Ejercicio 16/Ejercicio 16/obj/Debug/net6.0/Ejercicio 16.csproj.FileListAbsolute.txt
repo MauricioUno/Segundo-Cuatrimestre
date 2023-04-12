@@ -1,0 +1,18 @@
+C:\Users\Mauricio\OneDrive\Escritorio\Practica PyL II\Programacion orientada a objetos\Ejercicio 16\Ejercicio 16\bin\Debug\net6.0\Ejercicio 16.exe
+C:\Users\Mauricio\OneDrive\Escritorio\Practica PyL II\Programacion orientada a objetos\Ejercicio 16\Ejercicio 16\bin\Debug\net6.0\Ejercicio 16.deps.json
+C:\Users\Mauricio\OneDrive\Escritorio\Practica PyL II\Programacion orientada a objetos\Ejercicio 16\Ejercicio 16\bin\Debug\net6.0\Ejercicio 16.runtimeconfig.json
+C:\Users\Mauricio\OneDrive\Escritorio\Practica PyL II\Programacion orientada a objetos\Ejercicio 16\Ejercicio 16\bin\Debug\net6.0\Ejercicio 16.dll
+C:\Users\Mauricio\OneDrive\Escritorio\Practica PyL II\Programacion orientada a objetos\Ejercicio 16\Ejercicio 16\bin\Debug\net6.0\Ejercicio 16.pdb
+C:\Users\Mauricio\OneDrive\Escritorio\Practica PyL II\Programacion orientada a objetos\Ejercicio 16\Ejercicio 16\bin\Debug\net6.0\Clases.dll
+C:\Users\Mauricio\OneDrive\Escritorio\Practica PyL II\Programacion orientada a objetos\Ejercicio 16\Ejercicio 16\bin\Debug\net6.0\Clases.pdb
+C:\Users\Mauricio\OneDrive\Escritorio\Practica PyL II\Programacion orientada a objetos\Ejercicio 16\Ejercicio 16\obj\Debug\net6.0\Ejercicio 16.csproj.AssemblyReference.cache
+C:\Users\Mauricio\OneDrive\Escritorio\Practica PyL II\Programacion orientada a objetos\Ejercicio 16\Ejercicio 16\obj\Debug\net6.0\Ejercicio 16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauricio\OneDrive\Escritorio\Practica PyL II\Programacion orientada a objetos\Ejercicio 16\Ejercicio 16\obj\Debug\net6.0\Ejercicio 16.AssemblyInfoInputs.cache
+C:\Users\Mauricio\OneDrive\Escritorio\Practica PyL II\Programacion orientada a objetos\Ejercicio 16\Ejercicio 16\obj\Debug\net6.0\Ejercicio 16.AssemblyInfo.cs
+C:\Users\Mauricio\OneDrive\Escritorio\Practica PyL II\Programacion orientada a objetos\Ejercicio 16\Ejercicio 16\obj\Debug\net6.0\Ejercicio 16.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\OneDrive\Escritorio\Practica PyL II\Programacion orientada a objetos\Ejercicio 16\Ejercicio 16\obj\Debug\net6.0\Ejercicio 16.csproj.CopyComplete
+C:\Users\Mauricio\OneDrive\Escritorio\Practica PyL II\Programacion orientada a objetos\Ejercicio 16\Ejercicio 16\obj\Debug\net6.0\Ejercicio 16.dll
+C:\Users\Mauricio\OneDrive\Escritorio\Practica PyL II\Programacion orientada a objetos\Ejercicio 16\Ejercicio 16\obj\Debug\net6.0\refint\Ejercicio 16.dll
+C:\Users\Mauricio\OneDrive\Escritorio\Practica PyL II\Programacion orientada a objetos\Ejercicio 16\Ejercicio 16\obj\Debug\net6.0\Ejercicio 16.pdb
+C:\Users\Mauricio\OneDrive\Escritorio\Practica PyL II\Programacion orientada a objetos\Ejercicio 16\Ejercicio 16\obj\Debug\net6.0\Ejercicio 16.genruntimeconfig.cache
+C:\Users\Mauricio\OneDrive\Escritorio\Practica PyL II\Programacion orientada a objetos\Ejercicio 16\Ejercicio 16\obj\Debug\net6.0\ref\Ejercicio 16.dll

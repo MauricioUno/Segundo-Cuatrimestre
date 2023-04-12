@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mauricio\\source\\repos\\Ejercicio 18\\Geometria\\Entidades.csproj": {}
+    "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 3\\Ejercicio 18\\Geometria\\Entidades.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mauricio\\source\\repos\\Ejercicio 18\\Geometria\\Entidades.csproj": {
+    "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 3\\Ejercicio 18\\Geometria\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mauricio\\source\\repos\\Ejercicio 18\\Geometria\\Entidades.csproj",
+        "projectUniqueName": "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 3\\Ejercicio 18\\Geometria\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "C:\\Users\\Mauricio\\source\\repos\\Ejercicio 18\\Geometria\\Entidades.csproj",
+        "projectPath": "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 3\\Ejercicio 18\\Geometria\\Entidades.csproj",
         "packagesPath": "C:\\Users\\Mauricio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mauricio\\source\\repos\\Ejercicio 18\\Geometria\\obj\\",
+        "outputPath": "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 3\\Ejercicio 18\\Geometria\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mauricio\\AppData\\Roaming\\NuGet\\NuGet.Config",

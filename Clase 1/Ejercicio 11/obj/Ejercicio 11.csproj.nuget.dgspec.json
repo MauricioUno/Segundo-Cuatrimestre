@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mauricio\\OneDrive\\Documentos\\Programacion y Laboratorio II\\Clase 1\\Ejercicio 11\\Ejercicio 11.csproj": {}
+    "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 1\\Ejercicio 11\\Ejercicio 11.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mauricio\\OneDrive\\Documentos\\Programacion y Laboratorio II\\Clase 1\\Ejercicio 11\\Ejercicio 11.csproj": {
+    "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 1\\Ejercicio 11\\Ejercicio 11.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mauricio\\OneDrive\\Documentos\\Programacion y Laboratorio II\\Clase 1\\Ejercicio 11\\Ejercicio 11.csproj",
+        "projectUniqueName": "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 1\\Ejercicio 11\\Ejercicio 11.csproj",
         "projectName": "Ejercicio 11",
-        "projectPath": "C:\\Users\\Mauricio\\OneDrive\\Documentos\\Programacion y Laboratorio II\\Clase 1\\Ejercicio 11\\Ejercicio 11.csproj",
+        "projectPath": "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 1\\Ejercicio 11\\Ejercicio 11.csproj",
         "packagesPath": "C:\\Users\\Mauricio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mauricio\\OneDrive\\Documentos\\Programacion y Laboratorio II\\Clase 1\\Ejercicio 11\\obj\\",
+        "outputPath": "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 1\\Ejercicio 11\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mauricio\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Mauricio\\OneDrive\\Documentos\\Programacion y Laboratorio II\\Clase 1\\Entidades\\Entidades.csproj": {
-                "projectPath": "C:\\Users\\Mauricio\\OneDrive\\Documentos\\Programacion y Laboratorio II\\Clase 1\\Entidades\\Entidades.csproj"
+              "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 1\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 1\\Entidades\\Entidades.csproj"
               }
             }
           }
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\Users\\Mauricio\\OneDrive\\Documentos\\Programacion y Laboratorio II\\Clase 1\\Entidades\\Entidades.csproj": {
+    "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 1\\Entidades\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mauricio\\OneDrive\\Documentos\\Programacion y Laboratorio II\\Clase 1\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 1\\Entidades\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "C:\\Users\\Mauricio\\OneDrive\\Documentos\\Programacion y Laboratorio II\\Clase 1\\Entidades\\Entidades.csproj",
+        "projectPath": "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 1\\Entidades\\Entidades.csproj",
         "packagesPath": "C:\\Users\\Mauricio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mauricio\\OneDrive\\Documentos\\Programacion y Laboratorio II\\Clase 1\\Entidades\\obj\\",
+        "outputPath": "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 1\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mauricio\\AppData\\Roaming\\NuGet\\NuGet.Config",
