@@ -6,24 +6,27 @@ namespace Cotizador
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
-            Peso monedaArgentina = 1000; // 2.5 dolares
-            Euro monedaE = 6; // 3 dolares
-            Dolar monedaG = 10;
+            Console.Title = "Cotizador";
+            // 400 pesos = 1 dolar
+            // 2 euros = 1 dolar
+            Peso pesito = 1500;
+            Euro euro = 6; 
+            Dolar dolar = 3;
 
-            Dolar prueba = monedaG - monedaArgentina;
-            Euro prueba2 = monedaE - monedaG;
-            Peso prueba3 = monedaArgentina - monedaE;
-            Console.WriteLine((prueba3).GetCantidad());
-            Console.WriteLine((monedaArgentina - monedaG).GetCantidad());
-            Console.WriteLine((prueba).GetCantidad());
-            Console.WriteLine((prueba2).GetCantidad());
-            //Console.WriteLine(monedaE == monedaG);
-            //Console.WriteLine(monedaG == monedaE);
-            //Console.WriteLine(monedaG == monedaArgentina);
-            //Console.WriteLine(monedaArgentina == monedaG);
-            //Console.WriteLine(monedaE == monedaArgentina);
-            //Console.WriteLine(monedaArgentina == monedaE);
+            Console.WriteLine(pesito != dolar);
+            Console.WriteLine(pesito == dolar);
+           
+            Console.WriteLine(dolar != pesito);
+            Console.WriteLine(dolar == pesito);
+
+            Console.WriteLine(euro != dolar);
+            Console.WriteLine(euro == dolar);
+
+            Console.WriteLine(euro != pesito);
+            Console.WriteLine(euro == pesito);   
+
+            Console.WriteLine(((Dolar)pesito).GetCantidad());
+            Console.WriteLine(((Euro)dolar).GetCantidad());
         }
     }
 }

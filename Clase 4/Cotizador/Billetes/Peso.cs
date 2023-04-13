@@ -43,7 +43,7 @@ namespace Billetes
 
         public static explicit operator Dolar(Peso peso) 
         {
-            return new Dolar(peso.cantidad / Peso.cotzRespectoDolar);
+            return (Dolar)(peso.cantidad / Peso.cotzRespectoDolar);
         }
 
         public static explicit operator Euro(Peso peso) 

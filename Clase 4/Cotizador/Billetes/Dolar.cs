@@ -37,12 +37,12 @@
 
         public static explicit operator Peso(Dolar dolar) 
         {
-            return new Peso(dolar.GetCantidad() * Peso.GetCotizacion());
+            return (Peso)(dolar.GetCantidad() * Peso.GetCotizacion());
         }
 
         public static explicit operator Euro(Dolar dolar)
         {
-            return new Euro(dolar.GetCantidad() * Euro.GetCotizacion());
+            return (Euro)(dolar.GetCantidad() * Euro.GetCotizacion());
         }
 
         public static bool operator ==(Dolar dolar, Dolar dolarDos)
