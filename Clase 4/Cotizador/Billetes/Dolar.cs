@@ -44,5 +44,57 @@
         {
             return new Euro(dolar.GetCantidad() * Euro.GetCotizacion());
         }
+
+        public static bool operator ==(Dolar dolar, Dolar dolarDos)
+        {
+            return dolar.GetCantidad() == dolarDos.GetCantidad();
+        }
+
+        public static bool operator !=(Dolar dolar, Dolar dolarDos)
+        {
+            return !(dolar == dolarDos);
+        }
+
+        public static bool operator ==(Dolar dolar, Euro euro)
+        {
+            return euro == dolar;
+        }
+
+        public static bool operator !=(Dolar dolar, Euro euro)
+        {
+            return !(euro == dolar);
+        }
+
+        public static bool operator ==(Dolar dolar, Peso peso)
+        {
+            return (Euro)peso == dolar;
+        }
+
+        public static bool operator !=(Dolar dolar, Peso peso)
+        {
+            return !(dolar == peso);
+        }
+
+        public static Dolar operator +(Dolar dolar, Euro euro) 
+        {
+            return (Dolar)(euro + dolar);
+        }
+
+        public static Dolar operator -(Dolar dolar, Euro euro)
+        {
+            return (Dolar)(dolar.GetCantidad() - ((Dolar)euro).GetCantidad());
+        }
+
+        public static Dolar operator +(Dolar dolar, Peso peso)
+        {
+            return (dolar + (Euro)peso);
+        }
+
+        public static Dolar operator -(Dolar dolar, Peso peso)
+        {
+            return (dolar - (Euro)peso);
+        }
+
+
     }
 }

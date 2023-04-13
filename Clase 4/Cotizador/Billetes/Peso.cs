@@ -50,5 +50,55 @@ namespace Billetes
         {
             return (Euro)((Dolar)peso);
         }
+
+        public static bool operator ==(Peso peso, Peso pesoDos)
+        {
+            return peso.GetCantidad() == pesoDos.GetCantidad();
+        }
+
+        public static bool operator !=(Peso peso, Peso pesoDos)
+        {
+            return !(peso == pesoDos);
+        }
+
+        public static bool operator ==(Peso peso, Euro euro)
+        {
+            return euro == peso;
+        }
+
+        public static bool operator !=(Peso peso, Euro euro)
+        {
+            return !(euro == peso);
+        }
+
+        public static bool operator ==(Peso peso, Dolar dolar)
+        {
+            return dolar == peso;
+        }
+
+        public static bool operator !=(Peso peso, Dolar dolar)
+        {
+            return !(dolar == peso);
+        }
+
+        public static Peso operator +(Peso peso, Dolar dolar) 
+        {
+            return (Peso)(dolar + peso);
+        }
+
+        public static Peso operator -(Peso peso, Dolar dolar) 
+        {
+            return (Peso)(peso.GetCantidad() - ((Peso)dolar).GetCantidad());
+        }
+
+        public static Peso operator +(Peso peso, Euro euro) 
+        {
+            return (peso + (Dolar)euro);
+        }
+
+        public static Peso operator -(Peso peso, Euro euro)
+        {
+            return (peso - (Dolar)euro);
+        }
     }
 }
