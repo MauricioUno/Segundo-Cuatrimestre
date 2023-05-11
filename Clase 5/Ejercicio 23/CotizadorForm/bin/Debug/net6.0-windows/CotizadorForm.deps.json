@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CotizadorForm/1.0.0": {
+        "dependencies": {
+          "Billetes": "1.0.0",
+          "Validaciones": "1.0.0"
+        },
+        "runtime": {
+          "CotizadorForm.dll": {}
+        }
+      },
+      "Billetes/1.0.0": {
+        "runtime": {
+          "Billetes.dll": {}
+        }
+      },
+      "Validaciones/1.0.0": {
+        "runtime": {
+          "Validaciones.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CotizadorForm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Billetes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Validaciones/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

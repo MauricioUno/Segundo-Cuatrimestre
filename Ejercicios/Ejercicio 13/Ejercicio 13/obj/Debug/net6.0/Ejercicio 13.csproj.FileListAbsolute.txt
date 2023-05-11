@@ -1,0 +1,18 @@
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Metodos estaticos\Ejercicio 13\Ejercicio 13\bin\Debug\net6.0\Ejercicio 13.exe
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Metodos estaticos\Ejercicio 13\Ejercicio 13\bin\Debug\net6.0\Ejercicio 13.deps.json
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Metodos estaticos\Ejercicio 13\Ejercicio 13\bin\Debug\net6.0\Ejercicio 13.runtimeconfig.json
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Metodos estaticos\Ejercicio 13\Ejercicio 13\bin\Debug\net6.0\Ejercicio 13.dll
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Metodos estaticos\Ejercicio 13\Ejercicio 13\bin\Debug\net6.0\Ejercicio 13.pdb
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Metodos estaticos\Ejercicio 13\Ejercicio 13\bin\Debug\net6.0\Entidades.dll
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Metodos estaticos\Ejercicio 13\Ejercicio 13\bin\Debug\net6.0\Entidades.pdb
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Metodos estaticos\Ejercicio 13\Ejercicio 13\obj\Debug\net6.0\Ejercicio 13.csproj.AssemblyReference.cache
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Metodos estaticos\Ejercicio 13\Ejercicio 13\obj\Debug\net6.0\Ejercicio 13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Metodos estaticos\Ejercicio 13\Ejercicio 13\obj\Debug\net6.0\Ejercicio 13.AssemblyInfoInputs.cache
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Metodos estaticos\Ejercicio 13\Ejercicio 13\obj\Debug\net6.0\Ejercicio 13.AssemblyInfo.cs
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Metodos estaticos\Ejercicio 13\Ejercicio 13\obj\Debug\net6.0\Ejercicio 13.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Metodos estaticos\Ejercicio 13\Ejercicio 13\obj\Debug\net6.0\Ejercicio 13.csproj.CopyComplete
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Metodos estaticos\Ejercicio 13\Ejercicio 13\obj\Debug\net6.0\Ejercicio 13.dll
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Metodos estaticos\Ejercicio 13\Ejercicio 13\obj\Debug\net6.0\refint\Ejercicio 13.dll
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Metodos estaticos\Ejercicio 13\Ejercicio 13\obj\Debug\net6.0\Ejercicio 13.pdb
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Metodos estaticos\Ejercicio 13\Ejercicio 13\obj\Debug\net6.0\Ejercicio 13.genruntimeconfig.cache
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Metodos estaticos\Ejercicio 13\Ejercicio 13\obj\Debug\net6.0\ref\Ejercicio 13.dll

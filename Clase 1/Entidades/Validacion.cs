@@ -16,7 +16,7 @@ namespace Entidades
 
     }
 
-    public class IngresarDatos 
+    public static class IngresarDatos 
     {
         public static int IngresarNum(int min, int max, string mensaje) 
         {

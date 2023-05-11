@@ -1,0 +1,18 @@
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 8\Prueba Herencia\Prueba Herencia\bin\Debug\net6.0\Prueba Herencia.exe
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 8\Prueba Herencia\Prueba Herencia\bin\Debug\net6.0\Prueba Herencia.deps.json
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 8\Prueba Herencia\Prueba Herencia\bin\Debug\net6.0\Prueba Herencia.runtimeconfig.json
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 8\Prueba Herencia\Prueba Herencia\bin\Debug\net6.0\Prueba Herencia.dll
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 8\Prueba Herencia\Prueba Herencia\bin\Debug\net6.0\Prueba Herencia.pdb
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 8\Prueba Herencia\Prueba Herencia\bin\Debug\net6.0\Entidades.dll
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 8\Prueba Herencia\Prueba Herencia\bin\Debug\net6.0\Entidades.pdb
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 8\Prueba Herencia\Prueba Herencia\obj\Debug\net6.0\Prueba Herencia.csproj.AssemblyReference.cache
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 8\Prueba Herencia\Prueba Herencia\obj\Debug\net6.0\Prueba Herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 8\Prueba Herencia\Prueba Herencia\obj\Debug\net6.0\Prueba Herencia.AssemblyInfoInputs.cache
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 8\Prueba Herencia\Prueba Herencia\obj\Debug\net6.0\Prueba Herencia.AssemblyInfo.cs
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 8\Prueba Herencia\Prueba Herencia\obj\Debug\net6.0\Prueba Herencia.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 8\Prueba Herencia\Prueba Herencia\obj\Debug\net6.0\Prueba Herencia.csproj.CopyComplete
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 8\Prueba Herencia\Prueba Herencia\obj\Debug\net6.0\Prueba Herencia.dll
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 8\Prueba Herencia\Prueba Herencia\obj\Debug\net6.0\refint\Prueba Herencia.dll
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 8\Prueba Herencia\Prueba Herencia\obj\Debug\net6.0\Prueba Herencia.pdb
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 8\Prueba Herencia\Prueba Herencia\obj\Debug\net6.0\Prueba Herencia.genruntimeconfig.cache
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 8\Prueba Herencia\Prueba Herencia\obj\Debug\net6.0\ref\Prueba Herencia.dll

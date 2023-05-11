@@ -1,0 +1,54 @@
+C:\Users\Mauricio\OneDrive\Escritorio\Practica PyL II\Introduccion a .NET y C#\Ejercicio 06\obj\Debug\net6.0\Ejercicio 06.csproj.AssemblyReference.cache
+C:\Users\Mauricio\OneDrive\Escritorio\Practica PyL II\Introduccion a .NET y C#\Ejercicio 06\obj\Debug\net6.0\Ejercicio 06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauricio\OneDrive\Escritorio\Practica PyL II\Introduccion a .NET y C#\Ejercicio 06\obj\Debug\net6.0\Ejercicio 06.AssemblyInfoInputs.cache
+C:\Users\Mauricio\OneDrive\Escritorio\Practica PyL II\Introduccion a .NET y C#\Ejercicio 06\obj\Debug\net6.0\Ejercicio 06.AssemblyInfo.cs
+C:\Users\Mauricio\OneDrive\Escritorio\Practica PyL II\Introduccion a .NET y C#\Ejercicio 06\obj\Debug\net6.0\Ejercicio 06.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\OneDrive\Escritorio\Practica PyL II\Introduccion a .NET y C#\Ejercicio 06\bin\Debug\net6.0\Ejercicio 06.exe
+C:\Users\Mauricio\OneDrive\Escritorio\Practica PyL II\Introduccion a .NET y C#\Ejercicio 06\bin\Debug\net6.0\Ejercicio 06.deps.json
+C:\Users\Mauricio\OneDrive\Escritorio\Practica PyL II\Introduccion a .NET y C#\Ejercicio 06\bin\Debug\net6.0\Ejercicio 06.runtimeconfig.json
+C:\Users\Mauricio\OneDrive\Escritorio\Practica PyL II\Introduccion a .NET y C#\Ejercicio 06\bin\Debug\net6.0\Ejercicio 06.dll
+C:\Users\Mauricio\OneDrive\Escritorio\Practica PyL II\Introduccion a .NET y C#\Ejercicio 06\bin\Debug\net6.0\Ejercicio 06.pdb
+C:\Users\Mauricio\OneDrive\Escritorio\Practica PyL II\Introduccion a .NET y C#\Ejercicio 06\bin\Debug\net6.0\Entidades.dll
+C:\Users\Mauricio\OneDrive\Escritorio\Practica PyL II\Introduccion a .NET y C#\Ejercicio 06\bin\Debug\net6.0\Entidades.pdb
+C:\Users\Mauricio\OneDrive\Escritorio\Practica PyL II\Introduccion a .NET y C#\Ejercicio 06\obj\Debug\net6.0\Ejercicio 06.csproj.CopyComplete
+C:\Users\Mauricio\OneDrive\Escritorio\Practica PyL II\Introduccion a .NET y C#\Ejercicio 06\obj\Debug\net6.0\Ejercicio 06.dll
+C:\Users\Mauricio\OneDrive\Escritorio\Practica PyL II\Introduccion a .NET y C#\Ejercicio 06\obj\Debug\net6.0\refint\Ejercicio 06.dll
+C:\Users\Mauricio\OneDrive\Escritorio\Practica PyL II\Introduccion a .NET y C#\Ejercicio 06\obj\Debug\net6.0\Ejercicio 06.pdb
+C:\Users\Mauricio\OneDrive\Escritorio\Practica PyL II\Introduccion a .NET y C#\Ejercicio 06\obj\Debug\net6.0\Ejercicio 06.genruntimeconfig.cache
+C:\Users\Mauricio\OneDrive\Escritorio\Practica PyL II\Introduccion a .NET y C#\Ejercicio 06\obj\Debug\net6.0\ref\Ejercicio 06.dll
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Ejercicio 3-6\Ejercicio 06\bin\Debug\net6.0\Ejercicio 06.exe
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Ejercicio 3-6\Ejercicio 06\bin\Debug\net6.0\Ejercicio 06.deps.json
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Ejercicio 3-6\Ejercicio 06\bin\Debug\net6.0\Ejercicio 06.runtimeconfig.json
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Ejercicio 3-6\Ejercicio 06\bin\Debug\net6.0\Ejercicio 06.dll
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Ejercicio 3-6\Ejercicio 06\bin\Debug\net6.0\Ejercicio 06.pdb
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Ejercicio 3-6\Ejercicio 06\bin\Debug\net6.0\Entidades.dll
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Ejercicio 3-6\Ejercicio 06\bin\Debug\net6.0\Entidades.pdb
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Ejercicio 3-6\Ejercicio 06\obj\Debug\net6.0\Ejercicio 06.csproj.AssemblyReference.cache
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Ejercicio 3-6\Ejercicio 06\obj\Debug\net6.0\Ejercicio 06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Ejercicio 3-6\Ejercicio 06\obj\Debug\net6.0\Ejercicio 06.AssemblyInfoInputs.cache
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Ejercicio 3-6\Ejercicio 06\obj\Debug\net6.0\Ejercicio 06.AssemblyInfo.cs
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Ejercicio 3-6\Ejercicio 06\obj\Debug\net6.0\Ejercicio 06.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Ejercicio 3-6\Ejercicio 06\obj\Debug\net6.0\Ejercicio 06.csproj.CopyComplete
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Ejercicio 3-6\Ejercicio 06\obj\Debug\net6.0\Ejercicio 06.dll
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Ejercicio 3-6\Ejercicio 06\obj\Debug\net6.0\refint\Ejercicio 06.dll
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Ejercicio 3-6\Ejercicio 06\obj\Debug\net6.0\Ejercicio 06.pdb
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Ejercicio 3-6\Ejercicio 06\obj\Debug\net6.0\Ejercicio 06.genruntimeconfig.cache
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Ejercicio 3-6\Ejercicio 06\obj\Debug\net6.0\ref\Ejercicio 06.dll
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Ejercicio 3-7\Ejercicio 06\bin\Debug\net6.0\Ejercicio 06.exe
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Ejercicio 3-7\Ejercicio 06\bin\Debug\net6.0\Ejercicio 06.deps.json
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Ejercicio 3-7\Ejercicio 06\bin\Debug\net6.0\Ejercicio 06.runtimeconfig.json
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Ejercicio 3-7\Ejercicio 06\bin\Debug\net6.0\Ejercicio 06.dll
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Ejercicio 3-7\Ejercicio 06\bin\Debug\net6.0\Ejercicio 06.pdb
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Ejercicio 3-7\Ejercicio 06\bin\Debug\net6.0\Entidades.dll
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Ejercicio 3-7\Ejercicio 06\bin\Debug\net6.0\Entidades.pdb
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Ejercicio 3-7\Ejercicio 06\obj\Debug\net6.0\Ejercicio 06.csproj.AssemblyReference.cache
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Ejercicio 3-7\Ejercicio 06\obj\Debug\net6.0\Ejercicio 06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Ejercicio 3-7\Ejercicio 06\obj\Debug\net6.0\Ejercicio 06.AssemblyInfoInputs.cache
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Ejercicio 3-7\Ejercicio 06\obj\Debug\net6.0\Ejercicio 06.AssemblyInfo.cs
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Ejercicio 3-7\Ejercicio 06\obj\Debug\net6.0\Ejercicio 06.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Ejercicio 3-7\Ejercicio 06\obj\Debug\net6.0\Ejercicio 06.csproj.CopyComplete
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Ejercicio 3-7\Ejercicio 06\obj\Debug\net6.0\Ejercicio 06.dll
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Ejercicio 3-7\Ejercicio 06\obj\Debug\net6.0\refint\Ejercicio 06.dll
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Ejercicio 3-7\Ejercicio 06\obj\Debug\net6.0\Ejercicio 06.pdb
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Ejercicio 3-7\Ejercicio 06\obj\Debug\net6.0\Ejercicio 06.genruntimeconfig.cache
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Ejercicio 3-7\Ejercicio 06\obj\Debug\net6.0\ref\Ejercicio 06.dll

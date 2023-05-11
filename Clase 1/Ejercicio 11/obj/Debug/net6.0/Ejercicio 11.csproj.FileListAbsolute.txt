@@ -16,3 +16,21 @@ C:\Users\Mauricio\source\repos\Introducción .NET y C#\Ejercicio 11\obj\Debug\ne
 C:\Users\Mauricio\source\repos\Introducción .NET y C#\Ejercicio 11\obj\Debug\net6.0\Ejercicio 11.pdb
 C:\Users\Mauricio\source\repos\Introducción .NET y C#\Ejercicio 11\obj\Debug\net6.0\Ejercicio 11.genruntimeconfig.cache
 C:\Users\Mauricio\source\repos\Introducción .NET y C#\Ejercicio 11\obj\Debug\net6.0\ref\Ejercicio 11.dll
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 1\Ejercicio 11\bin\Debug\net6.0\Ejercicio 11.exe
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 1\Ejercicio 11\bin\Debug\net6.0\Ejercicio 11.deps.json
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 1\Ejercicio 11\bin\Debug\net6.0\Ejercicio 11.runtimeconfig.json
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 1\Ejercicio 11\bin\Debug\net6.0\Ejercicio 11.dll
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 1\Ejercicio 11\bin\Debug\net6.0\Ejercicio 11.pdb
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 1\Ejercicio 11\bin\Debug\net6.0\Entidades.dll
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 1\Ejercicio 11\bin\Debug\net6.0\Entidades.pdb
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 1\Ejercicio 11\obj\Debug\net6.0\Ejercicio 11.csproj.AssemblyReference.cache
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 1\Ejercicio 11\obj\Debug\net6.0\Ejercicio 11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 1\Ejercicio 11\obj\Debug\net6.0\Ejercicio 11.AssemblyInfoInputs.cache
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 1\Ejercicio 11\obj\Debug\net6.0\Ejercicio 11.AssemblyInfo.cs
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 1\Ejercicio 11\obj\Debug\net6.0\Ejercicio 11.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 1\Ejercicio 11\obj\Debug\net6.0\Ejercicio 11.csproj.CopyComplete
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 1\Ejercicio 11\obj\Debug\net6.0\Ejercicio 11.dll
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 1\Ejercicio 11\obj\Debug\net6.0\refint\Ejercicio 11.dll
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 1\Ejercicio 11\obj\Debug\net6.0\Ejercicio 11.pdb
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 1\Ejercicio 11\obj\Debug\net6.0\Ejercicio 11.genruntimeconfig.cache
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 1\Ejercicio 11\obj\Debug\net6.0\ref\Ejercicio 11.dll
