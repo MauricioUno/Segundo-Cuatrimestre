@@ -138,7 +138,7 @@ namespace CotizadorForm
                 this.AsignarValorATextBox(textBox, "");
             }
         }
-
+            
         private void AsignarValorATextBox(TextBox caja, string texto)
         {
             caja.Text = texto;

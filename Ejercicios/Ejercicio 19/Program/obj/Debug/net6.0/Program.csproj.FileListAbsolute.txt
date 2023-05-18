@@ -1,0 +1,36 @@
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 10\Ejercicio 19\Program\bin\Debug\net6.0\Program.exe
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 10\Ejercicio 19\Program\bin\Debug\net6.0\Program.deps.json
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 10\Ejercicio 19\Program\bin\Debug\net6.0\Program.runtimeconfig.json
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 10\Ejercicio 19\Program\bin\Debug\net6.0\Program.dll
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 10\Ejercicio 19\Program\bin\Debug\net6.0\Program.pdb
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 10\Ejercicio 19\Program\bin\Debug\net6.0\Entidades.dll
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 10\Ejercicio 19\Program\bin\Debug\net6.0\Entidades.pdb
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 10\Ejercicio 19\Program\obj\Debug\net6.0\Program.csproj.AssemblyReference.cache
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 10\Ejercicio 19\Program\obj\Debug\net6.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 10\Ejercicio 19\Program\obj\Debug\net6.0\Program.AssemblyInfoInputs.cache
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 10\Ejercicio 19\Program\obj\Debug\net6.0\Program.AssemblyInfo.cs
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 10\Ejercicio 19\Program\obj\Debug\net6.0\Program.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 10\Ejercicio 19\Program\obj\Debug\net6.0\Program.csproj.CopyComplete
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 10\Ejercicio 19\Program\obj\Debug\net6.0\Program.dll
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 10\Ejercicio 19\Program\obj\Debug\net6.0\refint\Program.dll
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 10\Ejercicio 19\Program\obj\Debug\net6.0\Program.pdb
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 10\Ejercicio 19\Program\obj\Debug\net6.0\Program.genruntimeconfig.cache
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 10\Ejercicio 19\Program\obj\Debug\net6.0\ref\Program.dll
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Ejercicio 19\Program\bin\Debug\net6.0\Program.exe
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Ejercicio 19\Program\bin\Debug\net6.0\Program.deps.json
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Ejercicio 19\Program\bin\Debug\net6.0\Program.runtimeconfig.json
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Ejercicio 19\Program\bin\Debug\net6.0\Program.dll
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Ejercicio 19\Program\bin\Debug\net6.0\Program.pdb
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Ejercicio 19\Program\bin\Debug\net6.0\Entidades.dll
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Ejercicio 19\Program\bin\Debug\net6.0\Entidades.pdb
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Ejercicio 19\Program\obj\Debug\net6.0\Program.csproj.AssemblyReference.cache
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Ejercicio 19\Program\obj\Debug\net6.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Ejercicio 19\Program\obj\Debug\net6.0\Program.AssemblyInfoInputs.cache
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Ejercicio 19\Program\obj\Debug\net6.0\Program.AssemblyInfo.cs
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Ejercicio 19\Program\obj\Debug\net6.0\Program.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Ejercicio 19\Program\obj\Debug\net6.0\Program.csproj.CopyComplete
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Ejercicio 19\Program\obj\Debug\net6.0\Program.dll
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Ejercicio 19\Program\obj\Debug\net6.0\refint\Program.dll
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Ejercicio 19\Program\obj\Debug\net6.0\Program.pdb
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Ejercicio 19\Program\obj\Debug\net6.0\Program.genruntimeconfig.cache
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Ejercicios\Ejercicio 19\Program\obj\Debug\net6.0\ref\Program.dll

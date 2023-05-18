@@ -89,9 +89,9 @@ namespace Entidades
         }
 
         /// <summary>
-        /// Sobreescritura del metodo GetHashCode, devuelve el HashCode del DNI de la persona
+        /// Sobreescritura del metodo GetHashCode, se obtendra el HashCode del atributo DNI
         /// </summary>
-        /// <returns></returns>
+        /// <returns>El HashCode del DNI de la persona</returns>
         public override int GetHashCode()
         {
             return this.dni.GetHashCode();

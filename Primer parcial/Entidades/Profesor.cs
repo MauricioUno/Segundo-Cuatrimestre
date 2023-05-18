@@ -68,7 +68,7 @@ namespace Entidades
         {
             return $"Profesor - {this.Materia}";
         }
-
+            
         public bool Evaluar(Alumno alumno) 
         {
             return alumno.RendirExamen(this.Materia);

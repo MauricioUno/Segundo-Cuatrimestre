@@ -10,6 +10,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\Billetes\Billetes.csproj" />
+    <ProjectReference Include="..\Billetes\Billetes.csproj" />
     <ProjectReference Include="..\Validaciones\Validaciones.csproj" />
   </ItemGroup>
 

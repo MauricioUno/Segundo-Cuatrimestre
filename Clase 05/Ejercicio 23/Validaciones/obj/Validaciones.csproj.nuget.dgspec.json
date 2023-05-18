@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 5\\CotizadorForm\\Validaciones\\Validaciones.csproj": {}
+    "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 05\\Ejercicio 23\\Validaciones\\Validaciones.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 5\\CotizadorForm\\Validaciones\\Validaciones.csproj": {
+    "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 05\\Ejercicio 23\\Validaciones\\Validaciones.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 5\\CotizadorForm\\Validaciones\\Validaciones.csproj",
+        "projectUniqueName": "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 05\\Ejercicio 23\\Validaciones\\Validaciones.csproj",
         "projectName": "Validaciones",
-        "projectPath": "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 5\\CotizadorForm\\Validaciones\\Validaciones.csproj",
+        "projectPath": "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 05\\Ejercicio 23\\Validaciones\\Validaciones.csproj",
         "packagesPath": "C:\\Users\\Mauricio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 5\\CotizadorForm\\Validaciones\\obj\\",
+        "outputPath": "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 05\\Ejercicio 23\\Validaciones\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mauricio\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -27,8 +27,8 @@
   "libraries": {
     "Billetes/1.0.0": {
       "type": "project",
-      "path": "../../Billetes/Billetes.csproj",
-      "msbuildProject": "../../Billetes/Billetes.csproj"
+      "path": "../Billetes/Billetes.csproj",
+      "msbuildProject": "../Billetes/Billetes.csproj"
     },
     "Validaciones/1.0.0": {
       "type": "project",
@@ -48,11 +48,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 5\\CotizadorForm\\CotizadorForm\\CotizadorForm.csproj",
+      "projectUniqueName": "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 05\\Ejercicio 23\\CotizadorForm\\CotizadorForm.csproj",
       "projectName": "CotizadorForm",
-      "projectPath": "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 5\\CotizadorForm\\CotizadorForm\\CotizadorForm.csproj",
+      "projectPath": "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 05\\Ejercicio 23\\CotizadorForm\\CotizadorForm.csproj",
       "packagesPath": "C:\\Users\\Mauricio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 5\\CotizadorForm\\CotizadorForm\\obj\\",
+      "outputPath": "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 05\\Ejercicio 23\\CotizadorForm\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mauricio\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -69,11 +69,14 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 5\\Billetes\\Billetes.csproj": {
-              "projectPath": "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 5\\Billetes\\Billetes.csproj"
+            "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 05\\Billetes\\Billetes.csproj": {
+              "projectPath": "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 05\\Billetes\\Billetes.csproj"
             },
-            "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 5\\CotizadorForm\\Validaciones\\Validaciones.csproj": {
-              "projectPath": "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 5\\CotizadorForm\\Validaciones\\Validaciones.csproj"
+            "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 05\\Ejercicio 23\\Billetes\\Billetes.csproj": {
+              "projectPath": "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 05\\Ejercicio 23\\Billetes\\Billetes.csproj"
+            },
+            "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 05\\Ejercicio 23\\Validaciones\\Validaciones.csproj": {
+              "projectPath": "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 05\\Ejercicio 23\\Validaciones\\Validaciones.csproj"
             }
           }
         }

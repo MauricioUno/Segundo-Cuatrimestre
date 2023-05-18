@@ -49,7 +49,7 @@ namespace Entidades
         #endregion
 
         #region "Sobrecargas"
-        public static bool operator ==(Alumno alumno, EMateria materia)
+        public static bool operator ==(Alumno alumno, EMateria materia) 
         {
             foreach (KeyValuePair<EMateria, List<int>> materia2 in alumno.materiasAsignadas) 
             {
@@ -59,6 +59,7 @@ namespace Entidades
                 }
             }
             return false;
+            // Metodo mas corto: return alumno.materiasAsignadas.ContainsKey(materia);
         }
 
         public static bool operator !=(Alumno alumno, EMateria materia)
@@ -70,8 +71,7 @@ namespace Entidades
         {
             if (!(alumno == materia)) 
             {
-                List<int> list = new List<int>();
-                alumno.materiasAsignadas.Add(materia,list);
+                alumno.materiasAsignadas.Add(materia, new List<int>());
                 return true;
             }
             return false;
@@ -82,7 +82,7 @@ namespace Entidades
             int dniEntero;
             int.TryParse(dni, out dniEntero);
             Alumno alumno = new Alumno(dniEntero);
-            alumno.legajo = alumno.GetHashCode().ToString();
+            alumno.legajo = $"L-{alumno.GetHashCode()}";
             return alumno;
            
         }
@@ -94,7 +94,7 @@ namespace Entidades
             if (this == materia) 
             {
                 Random nota = new Random();
-                this.materiasAsignadas[materia].Add(nota.Next(1, 10));
+                this[materia].Add(nota.Next(1, 10));
                 return true;
             }
             return false;

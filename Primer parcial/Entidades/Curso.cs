@@ -24,13 +24,8 @@ namespace Entidades
         public Profesor Profesor
         {
             get
-            {
-                if (this.profesor is Profesor)
-                {
-                    return (Profesor)this.profesor;
-                }
-                return null;
-
+            {              
+                return (Profesor)this.profesor;
             }
             set
             {
@@ -59,6 +54,7 @@ namespace Entidades
                 }
             }
             return false;
+            // Forma corta: return curso.alumnos.Contains(alumno); Ya que sobreescribimos el Equals
         }
 
         public static bool operator !=(Curso curso, Alumno alumno)

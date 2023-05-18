@@ -21,3 +21,26 @@ C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 5\Coti
 C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 5\CotizadorForm\CotizadorForm\bin\Debug\net6.0-windows\Validaciones.dll
 C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 5\CotizadorForm\CotizadorForm\bin\Debug\net6.0-windows\Validaciones.pdb
 C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 5\CotizadorForm\CotizadorForm\obj\Debug\net6.0-windows\CotizadorForm.FormMonedas.resources
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 05\Ejercicio 23\CotizadorForm\bin\Debug\net6.0-windows\CotizadorForm.exe
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 05\Ejercicio 23\CotizadorForm\bin\Debug\net6.0-windows\CotizadorForm.deps.json
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 05\Ejercicio 23\CotizadorForm\bin\Debug\net6.0-windows\CotizadorForm.runtimeconfig.json
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 05\Ejercicio 23\CotizadorForm\bin\Debug\net6.0-windows\CotizadorForm.dll
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 05\Ejercicio 23\CotizadorForm\bin\Debug\net6.0-windows\CotizadorForm.pdb
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 05\Ejercicio 23\CotizadorForm\bin\Debug\net6.0-windows\Billetes.dll
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 05\Ejercicio 23\CotizadorForm\bin\Debug\net6.0-windows\Validaciones.dll
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 05\Ejercicio 23\CotizadorForm\bin\Debug\net6.0-windows\Billetes.pdb
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 05\Ejercicio 23\CotizadorForm\bin\Debug\net6.0-windows\Validaciones.pdb
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 05\Ejercicio 23\CotizadorForm\obj\Debug\net6.0-windows\CotizadorForm.csproj.AssemblyReference.cache
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 05\Ejercicio 23\CotizadorForm\obj\Debug\net6.0-windows\CotizadorForm.FormMonedas.resources
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 05\Ejercicio 23\CotizadorForm\obj\Debug\net6.0-windows\CotizadorForm.Properties.Resources.resources
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 05\Ejercicio 23\CotizadorForm\obj\Debug\net6.0-windows\CotizadorForm.csproj.GenerateResource.cache
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 05\Ejercicio 23\CotizadorForm\obj\Debug\net6.0-windows\CotizadorForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 05\Ejercicio 23\CotizadorForm\obj\Debug\net6.0-windows\CotizadorForm.AssemblyInfoInputs.cache
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 05\Ejercicio 23\CotizadorForm\obj\Debug\net6.0-windows\CotizadorForm.AssemblyInfo.cs
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 05\Ejercicio 23\CotizadorForm\obj\Debug\net6.0-windows\CotizadorForm.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 05\Ejercicio 23\CotizadorForm\obj\Debug\net6.0-windows\CotizadorForm.csproj.CopyComplete
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 05\Ejercicio 23\CotizadorForm\obj\Debug\net6.0-windows\CotizadorForm.dll
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 05\Ejercicio 23\CotizadorForm\obj\Debug\net6.0-windows\refint\CotizadorForm.dll
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 05\Ejercicio 23\CotizadorForm\obj\Debug\net6.0-windows\CotizadorForm.pdb
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 05\Ejercicio 23\CotizadorForm\obj\Debug\net6.0-windows\CotizadorForm.genruntimeconfig.cache
+C:\Users\Mauricio\OneDrive\Escritorio\Programacion y Laboratorio II\Clase 05\Ejercicio 23\CotizadorForm\obj\Debug\net6.0-windows\ref\CotizadorForm.dll
