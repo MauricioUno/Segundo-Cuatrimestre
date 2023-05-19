@@ -9,7 +9,7 @@
       "CotizadorForm/1.0.0": {
         "dependencies": {
           "Billetes": "1.0.0",
-          "Validaciones": "1.0.0"
+          "Prueba": "1.0.0"
         },
         "runtime": {
           "CotizadorForm.dll": {}
@@ -20,9 +20,9 @@
           "Billetes.dll": {}
         }
       },
-      "Validaciones/1.0.0": {
+      "Prueba/1.0.0": {
         "runtime": {
-          "Validaciones.dll": {}
+          "Prueba.dll": {}
         }
       }
     }
@@ -38,7 +38,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Validaciones/1.0.0": {
+    "Prueba/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 6\\PruebaColecciones\\PruebaColecciones\\PruebaColecciones.csproj": {}
+    "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 06\\PruebaColecciones\\PruebaColecciones\\PruebaColecciones.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 6\\PruebaColecciones\\Entidades\\Entidades.csproj": {
+    "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 06\\PruebaColecciones\\Entidades\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 6\\PruebaColecciones\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 06\\PruebaColecciones\\Entidades\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 6\\PruebaColecciones\\Entidades\\Entidades.csproj",
+        "projectPath": "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 06\\PruebaColecciones\\Entidades\\Entidades.csproj",
         "packagesPath": "C:\\Users\\Mauricio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 6\\PruebaColecciones\\Entidades\\obj\\",
+        "outputPath": "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 06\\PruebaColecciones\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mauricio\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,14 +59,14 @@
         }
       }
     },
-    "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 6\\PruebaColecciones\\PruebaColecciones\\PruebaColecciones.csproj": {
+    "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 06\\PruebaColecciones\\PruebaColecciones\\PruebaColecciones.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 6\\PruebaColecciones\\PruebaColecciones\\PruebaColecciones.csproj",
+        "projectUniqueName": "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 06\\PruebaColecciones\\PruebaColecciones\\PruebaColecciones.csproj",
         "projectName": "PruebaColecciones",
-        "projectPath": "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 6\\PruebaColecciones\\PruebaColecciones\\PruebaColecciones.csproj",
+        "projectPath": "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 06\\PruebaColecciones\\PruebaColecciones\\PruebaColecciones.csproj",
         "packagesPath": "C:\\Users\\Mauricio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 6\\PruebaColecciones\\PruebaColecciones\\obj\\",
+        "outputPath": "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 06\\PruebaColecciones\\PruebaColecciones\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mauricio\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -83,8 +83,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 6\\PruebaColecciones\\Entidades\\Entidades.csproj": {
-                "projectPath": "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 6\\PruebaColecciones\\Entidades\\Entidades.csproj"
+              "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 06\\PruebaColecciones\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 06\\PruebaColecciones\\Entidades\\Entidades.csproj"
               }
             }
           }

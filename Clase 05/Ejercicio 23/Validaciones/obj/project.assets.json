@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 05\\Ejercicio 23\\Validaciones\\Validaciones.csproj",
-      "projectName": "Validaciones",
-      "projectPath": "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 05\\Ejercicio 23\\Validaciones\\Validaciones.csproj",
+      "projectUniqueName": "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 05\\Ejercicio 23\\Validaciones\\Prueba.csproj",
+      "projectName": "Prueba",
+      "projectPath": "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 05\\Ejercicio 23\\Validaciones\\Prueba.csproj",
       "packagesPath": "C:\\Users\\Mauricio\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 05\\Ejercicio 23\\Validaciones\\obj\\",
       "projectStyle": "PackageReference",

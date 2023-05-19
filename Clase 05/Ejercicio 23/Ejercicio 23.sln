@@ -5,7 +5,7 @@ VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CotizadorForm", "CotizadorForm\CotizadorForm.csproj", "{6A8B93CF-5565-4070-8916-B6B1A01C8F24}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Validaciones", "Validaciones\Validaciones.csproj", "{772A4CAA-E0CF-4CBA-AF29-A38E73ACF0CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prueba", "Validaciones\Prueba.csproj", "{772A4CAA-E0CF-4CBA-AF29-A38E73ACF0CA}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Billetes", "Billetes\Billetes.csproj", "{1B0D630E-8F66-484E-A99C-C113E2E4AEB7}"
 EndProject

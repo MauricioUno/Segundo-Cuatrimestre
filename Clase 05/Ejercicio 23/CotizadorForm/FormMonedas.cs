@@ -87,9 +87,9 @@ namespace CotizadorForm
 
         private void RealizarConversionTextBoxes(Euro moneda)
         {
-            if (Validaciones.StringIsPositive(this.ConversoresEuro[3].Text))
+            if (this.ConversoresEuro[3].Text.IsDecimal())
             {
-                moneda = Validaciones.StringToDouble(this.ConversoresEuro[3].Text);
+                moneda = this.ConversoresEuro[3].Text.ToDouble();
                 this.ConversoresEuro[0].Text = (moneda).GetCantidad().ToString("F2");
                 this.ConversoresEuro[1].Text = ((Dolar)moneda).GetCantidad().ToString("F2");
                 this.ConversoresEuro[2].Text = ((Peso)moneda).GetCantidad().ToString("F2");
@@ -102,9 +102,9 @@ namespace CotizadorForm
 
         private void RealizarConversionTextBoxes(Dolar moneda)
         {
-            if (Validaciones.StringIsPositive(this.ConversoresDolar[3].Text))
+            if (this.ConversoresDolar[3].Text.IsDecimal())
             {
-                moneda = Validaciones.StringToDouble(this.ConversoresDolar[3].Text);
+                moneda = this.ConversoresDolar[3].Text.ToDouble();
                 this.ConversoresDolar[0].Text = ((Euro)moneda).GetCantidad().ToString("F2");
                 this.ConversoresDolar[1].Text = (moneda).GetCantidad().ToString("F2");
                 this.ConversoresDolar[2].Text = ((Peso)moneda).GetCantidad().ToString("F2");
@@ -118,9 +118,9 @@ namespace CotizadorForm
 
         private void RealizarConversionTextBoxes(Peso moneda)
         {
-            if (Validaciones.StringIsPositive(this.ConversoresPeso[3].Text))
+            if (this.ConversoresPeso[3].Text.IsDecimal())
             {
-                moneda = Validaciones.StringToDouble(this.ConversoresPeso[3].Text);
+                moneda = this.ConversoresPeso[3].Text.ToDouble();
                 this.ConversoresPeso[0].Text = ((Euro)moneda).GetCantidad().ToString("F2");
                 this.ConversoresPeso[1].Text = ((Dolar)moneda).GetCantidad().ToString("F2");
                 this.ConversoresPeso[2].Text = (moneda).GetCantidad().ToString("F2");
@@ -138,7 +138,7 @@ namespace CotizadorForm
                 this.AsignarValorATextBox(textBox, "");
             }
         }
-            
+
         private void AsignarValorATextBox(TextBox caja, string texto)
         {
             caja.Text = texto;
@@ -146,9 +146,9 @@ namespace CotizadorForm
 
         private void txtCotzEuro_Leave(object sender, EventArgs e)
         {
-            if (Validaciones.StringIsPositive(this.txtCotzEuro.Text))
+            if (this.txtCotzEuro.Text.IsDecimal())
             {
-                Euro.SetCotizacion(Validaciones.StringToDouble(this.txtCotzEuro.Text));
+                Euro.SetCotizacion(this.txtCotzEuro.Text.ToDouble());
             }
             else
             {
@@ -165,9 +165,9 @@ namespace CotizadorForm
 
         private void txtCotzPeso_Leave(object sender, EventArgs e)
         {
-            if (Validaciones.StringIsPositive(this.txtCotzPeso.Text))
+            if (this.txtCotzPeso.Text.IsDecimal())
             {
-                Peso.SetCotizacion(Validaciones.StringToDouble(this.txtCotzPeso.Text));
+                Peso.SetCotizacion(this.txtCotzPeso.Text.ToDouble());
             }
             else
             {

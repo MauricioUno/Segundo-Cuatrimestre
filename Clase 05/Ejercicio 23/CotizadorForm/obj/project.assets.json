@@ -12,14 +12,14 @@
           "bin/placeholder/Billetes.dll": {}
         }
       },
-      "Validaciones/1.0.0": {
+      "Prueba/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
-          "bin/placeholder/Validaciones.dll": {}
+          "bin/placeholder/Prueba.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Validaciones.dll": {}
+          "bin/placeholder/Prueba.dll": {}
         }
       }
     }
@@ -30,16 +30,16 @@
       "path": "../Billetes/Billetes.csproj",
       "msbuildProject": "../Billetes/Billetes.csproj"
     },
-    "Validaciones/1.0.0": {
+    "Prueba/1.0.0": {
       "type": "project",
-      "path": "../Validaciones/Validaciones.csproj",
-      "msbuildProject": "../Validaciones/Validaciones.csproj"
+      "path": "../Validaciones/Prueba.csproj",
+      "msbuildProject": "../Validaciones/Prueba.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0-windows7.0": [
       "Billetes >= 1.0.0",
-      "Validaciones >= 1.0.0"
+      "Prueba >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -75,8 +75,8 @@
             "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 05\\Ejercicio 23\\Billetes\\Billetes.csproj": {
               "projectPath": "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 05\\Ejercicio 23\\Billetes\\Billetes.csproj"
             },
-            "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 05\\Ejercicio 23\\Validaciones\\Validaciones.csproj": {
-              "projectPath": "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 05\\Ejercicio 23\\Validaciones\\Validaciones.csproj"
+            "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 05\\Ejercicio 23\\Validaciones\\Prueba.csproj": {
+              "projectPath": "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Clase 05\\Ejercicio 23\\Validaciones\\Prueba.csproj"
             }
           }
         }

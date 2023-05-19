@@ -11,7 +11,7 @@
   <ItemGroup>
     <ProjectReference Include="..\..\Billetes\Billetes.csproj" />
     <ProjectReference Include="..\Billetes\Billetes.csproj" />
-    <ProjectReference Include="..\Validaciones\Validaciones.csproj" />
+    <ProjectReference Include="..\Validaciones\Prueba.csproj" />
   </ItemGroup>
 
   <ItemGroup>

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Billetes
 {
-    public class Euro 
+    public class Euro
     {
         private double cantidad;
         private static double cotzRespectoDolar;
@@ -16,7 +16,7 @@ namespace Billetes
             Euro.cotzRespectoDolar = 2;
         }
 
-        public Euro(double cantidad) 
+        public Euro(double cantidad)
         {
             this.cantidad = cantidad;
         }

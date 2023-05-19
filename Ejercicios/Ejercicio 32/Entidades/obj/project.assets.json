@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Ejercicios\\Encapsulamiento\\Ejercicio 32\\Entidades\\Entidades.csproj",
+      "projectUniqueName": "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Ejercicios\\Ejercicio 32\\Entidades\\Entidades.csproj",
       "projectName": "Entidades",
-      "projectPath": "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Ejercicios\\Encapsulamiento\\Ejercicio 32\\Entidades\\Entidades.csproj",
+      "projectPath": "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Ejercicios\\Ejercicio 32\\Entidades\\Entidades.csproj",
       "packagesPath": "C:\\Users\\Mauricio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Ejercicios\\Encapsulamiento\\Ejercicio 32\\Entidades\\obj\\",
+      "outputPath": "C:\\Users\\Mauricio\\OneDrive\\Escritorio\\Programacion y Laboratorio II\\Ejercicios\\Ejercicio 32\\Entidades\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mauricio\\AppData\\Roaming\\NuGet\\NuGet.Config",
