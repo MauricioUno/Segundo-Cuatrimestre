@@ -20,7 +20,7 @@ namespace TestProject1
             try
             {
                 Competencia zyox = new Competencia(3, 100, ETipoCompetencia.MotoCross);
-                zyox.Competidores.Add(new AutoF1(95, "Rayo", 100));
+                bool aux = zyox + new AutoF1(95, "Rayo", 100);
             }
             catch(Exception ex) 
             {
@@ -38,7 +38,7 @@ namespace TestProject1
             try
             {
                 Competencia zyox = new Competencia(3, 100, ETipoCompetencia.MotoCross);
-                zyox.Competidores.Add(new AutoF1(95, "Rayo", 100));
+                bool aux = zyox + new MotoCross(95, "Rayo", 100);
             }
             catch (Exception ex)
             {
