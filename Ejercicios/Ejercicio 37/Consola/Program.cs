@@ -19,13 +19,9 @@ namespace Consola
             // Las llamadas se irán registrando en la Centralita.
             // La centralita mostrará por pantalla todas las llamadas según las vaya registrando.
             c.Llamadas.Add(l1);
-            Console.WriteLine(c.MostrarDatos());
             c.Llamadas.Add(l2);
-            Console.WriteLine(c.MostrarDatos());
             c.Llamadas.Add(l3);
-            Console.WriteLine(c.MostrarDatos());
             c.Llamadas.Add(l4);
-            Console.WriteLine(c.MostrarDatos());
             c.Llamadas.Add(l5);
             c.Llamadas.Add(l6);
             c.OrdenarLlamadas();
